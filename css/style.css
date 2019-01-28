@@ -171,7 +171,7 @@ body {
     right: 44.86%;
 }
 
-.slider a {
+.slider li {
     display: block;
     float: left;
     margin-right: 10px;
@@ -183,8 +183,7 @@ body {
     opacity: 0.2;
 }
 
-
-.slider li:nth-child(2) li {
+.slider li:nth-child(2) {
     width: 40px;
     height: 40px;
     border-radius: 20px;
@@ -192,8 +191,12 @@ body {
     opacity: 1;
 }
 
-
-
+.slider a {
+    display: block;
+    width: inherit;
+    height: inherit;
+    border-radius: 15px;
+}
 .content_menu  {
     clear: both;
     float: left;
