@@ -934,7 +934,7 @@ DETAILS
     width: 570px;
     height: 570px;
     float: left;
-    margin-bottom: 11px
+    margin-bottom: 11px;
 }
 
 .pic {
@@ -943,6 +943,7 @@ DETAILS
 
 .controll {
     margin-left: 150px;
+    clear:both;
 }
 
 .product_details .controll div {
