@@ -934,6 +934,7 @@ DETAILS
     width: 570px;
     height: 570px;
     float: left;
+    margin-bottom: 11px
 }
 
 .pic {
@@ -948,7 +949,6 @@ DETAILS
     float: left;
     width: 70px;
     height: 70px;
-    margin-top: 11px;
     margin-right: 10px;
 }
 
